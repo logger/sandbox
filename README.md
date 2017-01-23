@@ -8,3 +8,7 @@ request ---> nginx ---> app
                |
              LuaJit ---> (nosql)
 ```
+
+The idea is to try to get  the number of requests per second per host/node etc.
+
+check http://opentsdb.net/
